@@ -11,16 +11,16 @@
 	},
 	"dependencies": {
 		"@astrojs/partytown": "^2.1.4",
-		"@astrojs/sitemap": "^3.4.2",
-		"@fontsource/pt-serif": "^5.2.6",
-		"@tailwindcss/vite": "^4.1.11",
-		"astro": "^5.12.9",
-		"sharp": "^0.34.3",
-		"tailwindcss": "^4.1.11"
+		"@astrojs/sitemap": "^3.7.0",
+		"@fontsource/pt-serif": "^5.2.8",
+		"@tailwindcss/vite": "^4.1.18",
+		"astro": "^5.17.2",
+		"sharp": "^0.34.5",
+		"tailwindcss": "^4.1.18"
 	},
 	"devDependencies": {
-		"@astrojs/vercel": "^8.2.5",
-		"sass": "^1.90.0"
+		"@astrojs/vercel": "^9.0.4",
+		"sass": "^1.97.3"
 	},
     "engines": {
         "node": ">=22.0.0"
