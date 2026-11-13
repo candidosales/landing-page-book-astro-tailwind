@@ -10,17 +10,17 @@
 		"astro": "astro"
 	},
 	"dependencies": {
-		"@astrojs/partytown": "2.1.5",
-		"@astrojs/sitemap": "3.7.1",
-		"@fontsource/pt-serif": "^5.2.8",
-		"@tailwindcss/vite": "^4.2.1",
-		"astro": "6.0.4",
+		"@astrojs/partytown": "2.1.9",
+		"@astrojs/sitemap": "3.7.4",
+		"@fontsource/pt-serif": "^5.3.0",
+		"@tailwindcss/vite": "^4.3.5",
+		"astro": "6.4.8",
 		"sharp": "^0.34.5",
-		"tailwindcss": "^4.2.1"
+		"tailwindcss": "^4.3.5"
 	},
 	"devDependencies": {
-		"@astrojs/vercel": "10.0.0",
-		"sass": "^1.98.0"
+		"@astrojs/vercel": "10.0.8",
+		"sass": "^1.108.2"
 	},
 	"engines": {
 		"node": ">=22.0.0"
