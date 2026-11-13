@@ -14,15 +14,15 @@
 		"@astrojs/sitemap": "3.7.4",
 		"@fontsource/pt-serif": "^5.3.0",
 		"@tailwindcss/vite": "^4.3.5",
-		"astro": "6.4.8",
-		"sharp": "^0.34.5",
+		"astro": "7.4.11",
+		"sharp": "^0.35.5",
 		"tailwindcss": "^4.3.5"
 	},
 	"devDependencies": {
-		"@astrojs/vercel": "10.0.8",
+		"@astrojs/vercel": "11.0.21",
 		"sass": "^1.108.2"
 	},
 	"engines": {
-		"node": ">=22.0.0"
+		"node": ">=22.23.4"
 	}
 }
